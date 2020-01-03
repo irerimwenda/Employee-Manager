@@ -1,6 +1,5 @@
-# employeemanager
-
-> simple employee manager web app
+# Employee Manager
+> simple employee manager web app created with vue + firestore db.
 
 ## Build Setup
 
